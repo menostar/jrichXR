@@ -25,13 +25,13 @@ export default function AdminStudioNav({
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             className={`${styles.logo} ${styles.logoLight}`}
-            src="/brand/tagxr-logo-color.svg"
+            src="/brand/tagxr-logo-color-notm.svg"
             alt="TagXR"
           />
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             className={`${styles.logo} ${styles.logoDark}`}
-            src="/brand/tagxr-logo-white.svg"
+            src="/brand/tagxr-logo-white-notm.svg"
             alt=""
             aria-hidden="true"
           />
